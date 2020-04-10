@@ -1,4 +1,4 @@
-# Show_me_the_Data_Structures
+# Data Structure Questions
 
 In this project, I tried solving the six questions (given below) that cover a variety of topics related to the data structures. I tried writing up a clean and efficient answer in Python, as well as a text explanation of the efficiency of both my code and my design choices.
 
